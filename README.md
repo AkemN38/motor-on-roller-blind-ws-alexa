@@ -81,3 +81,11 @@ This is one-time-only issue so next resets will be done properly.
 
 ## Communication settings
  ![WIFI Manager](https://user-images.githubusercontent.com/2181965/37288794-75244c84-2608-11e8-8c27-a17e1e854761.jpg)
+ 
+Original Author :
+
+nidayand : https://github.com/nidayand/motor-on-roller-blind-ws
+
+Remake Version with Alexa ( not working anymore )
+
+TheHookUp : https://github.com/thehookup/motor-on-roller-blind-ws****
