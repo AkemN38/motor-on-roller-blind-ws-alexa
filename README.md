@@ -1,4 +1,4 @@
-# motor-on-roller-blind-ws
+# motor-on-roller-blind-ws-alexa
 WebSocket based version of [motor-on-roller-blind](https://github.com/nidayand/motor-on-roller-blind). I.e. there is no need of an MQTT server but MQTT is supported as well - you can control it with WebSockets and/or with MQTT messages.
 
 3d parts for printing are available on Thingiverse.com: ["motor on a roller blind"](https://www.thingiverse.com/thing:2392856)
@@ -70,6 +70,7 @@ This is one-time-only issue so next resets will be done properly.
 - ArduinoJson v5: https://github.com/bblanchon/ArduinoJson
 - WIFIManager: https://github.com/tzapu/WiFiManager
 - WbSocketsServer: https://github.com/Links2004/arduinoWebSockets
+- ESPAlexa: https://github.com/Aircoookie/Espalexa
 
 # Screenshots
 
